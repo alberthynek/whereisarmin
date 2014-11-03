@@ -1,0 +1,7 @@
+#sketch_container a{
+	color: black;
+	text-decoration:none;
+}
+#sketch_container a:visited{
+	color: black;
+}
